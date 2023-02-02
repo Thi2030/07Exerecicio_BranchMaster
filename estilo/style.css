@@ -10,9 +10,15 @@
 body{
     background-color: rgb(171, 111, 228);
 }
-
+header{
+    text-align: center;
+}
 main{
     background-color: white;
     margin:10%;
     padding: 10%;
+    border-radius: 50%;
+}
+main h2{
+    text-align:center;
 }
